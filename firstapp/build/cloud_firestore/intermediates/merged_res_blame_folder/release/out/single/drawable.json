@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\ea9ba0d4ac3b47793150860cddab62cf\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\ea9ba0d4ac3b47793150860cddab62cf\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\ea9ba0d4ac3b47793150860cddab62cf\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\ea9ba0d4ac3b47793150860cddab62cf\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\842450646dbe7a0ffb2bfe63acfc594b\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\ea9ba0d4ac3b47793150860cddab62cf\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\ea9ba0d4ac3b47793150860cddab62cf\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\ea9ba0d4ac3b47793150860cddab62cf\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Flutter\\firstapp\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\DevilsCrosshair\\.gradle\\caches\\transforms-3\\ea9ba0d4ac3b47793150860cddab62cf\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    }
+]
